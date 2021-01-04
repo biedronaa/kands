@@ -1,7 +1,13 @@
 import React from 'react'
 
+import Nav from './Navbar'
+
 const App = () => {
-    return <div>hej!</div>
+    return (
+        <div>
+            <Nav />
+        </div>
+    )
 }
 
 
