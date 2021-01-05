@@ -12,4 +12,8 @@ img:hover {
     justify-content: center;
 }
 
+.customHeight {
+    min-height: calc(100vh - 153px);
+}
+
 

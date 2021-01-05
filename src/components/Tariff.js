@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tariff = () => {
     return (
-        <div>cennik</div>
+        <div class="bg-light mt-5 customHeight">cennik</div>
     )
 }
 
