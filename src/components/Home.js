@@ -10,7 +10,7 @@ const Home = () => {
             <div class="w-100 d-flex justify-content-around row row-cols-1 row-cols-lg-3 mt-5 mx-auto">
                 <div class="col p-4">
                     <div class="card mt-3 border-0 bg-light">
-                    <Link to="/1"><img src={banner} class="card-img-top" alt="mycie szyb" /></Link>
+                    <Link to="/1"><img src={banner} class="card-img-top animeImg" alt="mycie szyb" /></Link>
                     <div class="card-body">
                         <h5 class="card-title">Czyszczenie dachów i okien</h5>
                         <p class="card-text">W skład naszej oferty wchodzi wysokociśnieniowe mycie dachów. Podczas pracy wykorzystujemy specjalnie przygotowaną do tego typu zadań chemię czyszczącą oraz wysokiej klasy sprzęt.</p>
@@ -23,7 +23,7 @@ const Home = () => {
 
                 <div class="col p-4">
                     <div class="card mt-3 border-0  bg-light">
-                    <Link to="/2"><img src={banner1} class="card-img-top" alt="mycie elewacji" /></Link>
+                    <Link to="/2"><img src={banner1} class="card-img-top animeImg" alt="mycie elewacji" /></Link>
                     <div class="card-body">
                         <h5 class="card-title">Czyszczenie elewacji i podjazdów</h5>
                         <p class="card-text">Efektywnie czyścimy nie tylko kostkę brukową, ale także wszelkiego rodzaju kamienie naturalne, piaskowce. Myjemy także tarasy, usuwamy plamy oleju.</p>
@@ -36,7 +36,7 @@ const Home = () => {
 
                 <div class="col p-4">
                     <div class="card mt-3 border-0  bg-light">
-                    <Link to="/3"><img src={banner2} class="card-img-top" alt="mycie auta" /></Link>
+                    <Link to="/3"><img src={banner2} class="card-img-top animeImg" alt="mycie auta" /></Link>
                     <div class="card-body">
                         <h5 class="card-title">Czyszczenie samochodów</h5>
                         <p class="card-text">Oprócz standardowego mycia wysokociśnieniowego samochodów oferujemy również mycie przyczep, maszyn przemysłowych oraz rolniczych, a nawet mebli ogrodowych.</p>
