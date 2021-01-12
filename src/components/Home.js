@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 const Home = () => {
     return (
         <div class="bg-light">
-            <div class="w-100 d-flex justify-content-around row row-cols-1 row-cols-lg-3 mt-5 mx-auto">
+            <div class="w-100 d-flex justify-content-around row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-5 mx-auto">
                 <div class="col p-4">
                     <div class="card mt-3 border-0 bg-light">
                     <Link to="/1"><img src={banner} class="card-img-top animeImg" alt="mycie szyb" /></Link>
@@ -93,8 +93,8 @@ const Home = () => {
 
             <div class="text-center pt-4 bg-light text-dark">
                 <i class="fas fa-calculator fa-3x pb-3"></i>
-                <p class="p-2">Chcesz wiedzieć ile może kosztować czyszczenie? Skorzystaj z naszego kalkulatora!</p>
-                <Link type="button" class="btn btn-warning text-dark px-4 " to="/cennik">Wyceń zlecenie</Link>
+                <p class="p-2">Chcesz wiedzieć ile może kosztować czyszczenie?</p>
+                <Link type="button" class="btn btn-warning text-dark px-4 " to="/cennik">Zobacz cennik</Link>
             </div>
         </div>
     )

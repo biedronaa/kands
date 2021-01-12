@@ -13,13 +13,13 @@ const Slider = () => {
         </ol>
         <div class="carousel-inner sliderHeight mt-5">
             <div class="carousel-item active">
-            <img src={banner} class="d-block w-100" alt="..." />
+            <img src={banner} class="d-block w-100" alt="mycie szyb" />
             </div>
             <div class="carousel-item">
-            <img src={banner1} class="d-block w-100" alt="..." />
+            <img src={banner1} class="d-block w-100" alt="mycie elewacji" />
             </div>
             <div class="carousel-item">
-            <img src={banner2} class="d-block w-100" alt="..." />
+            <img src={banner2} class="d-block w-100" alt="mycie auta" />
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">

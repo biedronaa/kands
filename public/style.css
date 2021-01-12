@@ -16,6 +16,15 @@ img.animeImg:hover {
 }
 
 .sliderHeight {
-    max-height: 250px;
+    max-height: 270px;
 }
+
+.tariffTable th, td{ 
+    padding: 10px;
+    border: 1px black;
+}
+
+.tariffTable th{ background-color: #ffc107;}
+
+.tariffTable tr:nth-child(even){background-color: #f2f2f2;}
 
