@@ -1,4 +1,5 @@
 import React from 'react'
+import Calculator from './Calculator'
 
 const Tariff = () => {
     return (
@@ -12,15 +13,15 @@ const Tariff = () => {
                     </tr>
                     <tr>
                         <td>Czyszczenie kostki brukowej</td>
-                        <td>6-8 zł</td>
+                        <td>7 zł</td>
                     </tr>
                     <tr>
                         <td>Dwukrotna impregnacja kostki brukowej</td>
-                        <td>10-12 zł</td>
+                        <td>11 zł</td>
                     </tr>
                     <tr>
                         <td>Czyszczenie elewacji</td>
-                        <td>10-12 zł</td>
+                        <td>11 zł</td>
                     </tr>
                     <tr>
                         <td>Uzupełnianie piasku w szczelinach kostki brukowej</td>
@@ -28,29 +29,30 @@ const Tariff = () => {
                     </tr>
                     <tr>
                         <td>Czyszczenie dachów</td>
-                        <td>14-18 zł</td>
+                        <td>16 zł</td>
                     </tr>
                     <tr>
                         <td>Czyszczenie okien</td>
-                        <td>14-20 zł</td>
+                        <td>17 zł</td>
                     </tr>
                     <tr>
                         <td>Czyszczenie samochodów</td>
-                        <td>20-22 zł</td>
+                        <td>21 zł</td>
                     </tr>
                     <tr>
                         <td>Czyszczenie mebli ogrodowych</td>
-                        <td>18-20 zł</td>
+                        <td>19 zł</td>
                     </tr>
                 </table>
                 <p>Podane ceny są cenami netto i należy doliczyć 23% Vat.
 
                     Na każde wykonane przez nas zlecenie wystawiamy fakturę Vat.<br />
 
-                    Minimalna wartość zlecenia na terenie Trójmiasta i okolic 250 zł.
+                    Minimalna wartość zlecenia na terenie Trójmiasta i okolic 150 zł.
 
-                    Dojazd na terenie Gdyni i Trójmiasta Gratis!
+                    Dojazd 50zł opłaty początkowej. Każdy następny kilometr 0,5 zł.
                 </p>
+                <Calculator />
             </div>
         </div>
     )

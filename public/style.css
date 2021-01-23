@@ -4,6 +4,17 @@ img.animeImg {
 img.animeImg:hover {
     transform: scale(1.03);
 }
+
+option, input {
+    box-sizing: border-box;
+    padding: 8px;
+}
+select {
+    padding: 9px;
+    box-sizing: border-box;
+}
+
+
 .myFooter {
     left: 0;
     bottom: 0;

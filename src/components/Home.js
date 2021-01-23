@@ -94,7 +94,7 @@ const Home = () => {
             <div class="text-center pt-4 bg-light text-dark">
                 <i class="fas fa-calculator fa-3x pb-3"></i>
                 <p class="p-2">Chcesz wiedzieć ile może kosztować czyszczenie?</p>
-                <Link type="button" class="btn btn-warning text-dark px-4 " to="/cennik">Zobacz cennik</Link>
+                <Link type="button" class="btn btn-warning text-dark px-4 " to="/cennik">Wyceń zlecenie</Link>
             </div>
         </div>
     )

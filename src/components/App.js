@@ -8,6 +8,7 @@ import Service1 from './Service1'
 import Service2 from './Service2'
 import Service3 from './Service3'
 import Footer from './Footer'
+import Calculator from './Calculator'
 
 const App = () => {
     return (
@@ -20,6 +21,7 @@ const App = () => {
                 <Route path="/1" exact component={Service1} />
                 <Route path="/2" exact component={Service2} />
                 <Route path="/3" exact component={Service3} />
+                <Route path="/kalkulator" exact component={Calculator} />
             </section>
             <Footer />
         </div>
