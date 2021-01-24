@@ -26,5 +26,7 @@ Now, you could enjoy the project.
 
 #### Features
 * Calculating the approximate cost of the service.
-<a href="https://ibb.co/Hg8v5GB"><img src="https://i.ibb.co/QmwByYp/ss1.png" alt="ss1" border="0"></a>
-<a href="https://ibb.co/dp39cgW"><img src="https://i.ibb.co/PWbpYQm/ss2.png" alt="ss2" border="0"></a>
+<div>
+  <a href="https://ibb.co/Hg8v5GB"><img src="https://i.ibb.co/QmwByYp/ss1.png" alt="ss1" border="0"></a>
+  <a href="https://ibb.co/dp39cgW"><img src="https://i.ibb.co/PWbpYQm/ss2.png" alt="ss2" border="0"></a>
+ </div>
