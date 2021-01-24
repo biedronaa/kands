@@ -1,5 +1,5 @@
 # Kands
-React.js project with bootstrap, fontawsome and some custom css. Kands also uses axios to get REST API data from https://github.com/biedronaa/kands-hapi project.
+React.js app with bootstrap, fontawsome and some custom css. Kands also uses axios to get REST API data from https://github.com/biedronaa/kands-hapi project.
 
 #### Table of contents
 * [General info](#general-info)
