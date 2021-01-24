@@ -7,6 +7,7 @@ React.js project with bootstrap, fontawsome and some custom css. Kands also uses
 * [Setup](#setup)
 
 #### General info
+Project was created as a site for an imaginary company providing cleaning services of various surfaces. It has a feature of calculating the approximate cost of the service by using REST API data from another project mentioned above.
 
 #### Technologies
 * React.js 17.0.1
